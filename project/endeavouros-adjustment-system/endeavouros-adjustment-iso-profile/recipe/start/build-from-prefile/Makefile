@@ -31,7 +31,8 @@ help:
 
 prepare:
 #	sudo pacman -Sy --needed base-devel archiso
-	sudo pacman -Sy --needed archiso
+#	sudo pacman -Sy --needed archiso
+	sudo pacman -Sy --needed archiso mkinitcpio-archiso git squashfs-tools
 #	sudo pacman -Sy --needed qemu-desktop
 .PHONY: prepare
 
