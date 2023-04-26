@@ -128,8 +128,13 @@ mod_iso_make () {
 
 	#sudo mkarchiso -v profile
 	#sudo mkarchiso -w tmp/work -o tmp/out -v profile
+	#sudo ./profile/mkarchiso -w tmp/work -o tmp/out -v profile
 
-	sudo ./profile/mkarchiso -w tmp/work -o tmp/out -v profile
+	cd ./profile	
+
+	sudo ./mkarchiso -v .
+
+	cd "${OLDPWD}"
 
 
 }
