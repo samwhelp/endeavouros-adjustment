@@ -1,18 +1,27 @@
 
+
 # Vim
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.vim/vimrc](./asset/overlay/etc/skel/.vim/vimrc) |
+
+
 
 
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [vim](https://archlinux.org/packages/extra/x86_64/vim/) |
 
 

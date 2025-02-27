@@ -1,18 +1,27 @@
 
+
 # Feathernotes
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/feathernotes/fn.conf](./asset/overlay/etc/skel/.config/feathernotes/fn.conf) |
+
+
 
 
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [feathernotes](https://archlinux.org/packages/extra/x86_64/feathernotes/) |
 
 

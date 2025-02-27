@@ -1,18 +1,27 @@
 
+
 # QTerminal
+
+* [Config File Path](#config-file-path)
+* [Arch Package](#arch-package)
+* [Usage](#usage)
+
+
 
 
 ## Config File Path
 
 | Config File Path |
-| --- |
+| ---------------- |
 | [~/.config/qterminal.org/qterminal.ini](./asset/overlay/etc/skel/.config/qterminal.org/qterminal.ini) |
+
+
 
 
 ## Arch Package
 
 | Arch Package |
-| --- |
+| ------------ |
 | [qterminal](https://archlinux.org/packages/extra/x86_64/qterminal/) |
 
 
