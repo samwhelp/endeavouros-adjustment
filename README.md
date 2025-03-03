@@ -11,17 +11,28 @@
 
 ## Subject
 
-* [EndeavourOS Adjustment](#endeavouros-adjustment)
+* [EndeavourOS Respin](#endeavouros-respin)
+* [Script](#script)
 * [ISO](#iso)
 
 
 
 
-## EndeavourOS Adjustment
+## EndeavourOS Respin
 
 | Link | GitHub |
 | ---- | ------ |
 | [EndeavourOS Kde Plasma Adjustment](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment) |
+
+
+
+
+## Script
+
+| Script |
+| ------ |
+| [EndeavourOS Config](https://github.com/samwhelp/endeavouros-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/endeavouros-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
 
