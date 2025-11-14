@@ -1,7 +1,7 @@
-https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-2025.02.08.iso
+https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-Neo-2025.03.19.iso
 
 
 
 
-https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-2025.02.08.iso.sha512sum
-https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-2025.02.08.iso.sig
+https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-Neo-2025.03.19.iso.sha512sum
+https://mirror.archlinux.tw/EndeavourOS/iso/EndeavourOS_Mercury-Neo-2025.03.19.iso.sig
