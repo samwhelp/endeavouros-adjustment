@@ -48,7 +48,7 @@ im_config_apply_fcitx5 () {
 	#sudo mkdir -p "/etc/profile.d"
 
 	echo
-	echo "sudo install -Dm644 ./asset/overlay/etc/profile.d/input-method.sh/etc/profile.d/input-method.sh"
+	echo sudo install -Dm644 "./asset/overlay/etc/profile.d/input-method.sh" "/etc/profile.d/input-method.sh"
 	sudo install -Dm644 "./asset/overlay/etc/profile.d/input-method.sh" "/etc/profile.d/input-method.sh"
 
 
